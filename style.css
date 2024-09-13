@@ -15,11 +15,11 @@ button:focus {
 }
 
 /* -------- BODY DISPLAY --------- */
-body {
-  background-color: #222;
+body{
+  background-color: #fffafa;g
   overflow: hidden;
   display: flex;
-  justify-content: center;
+  justify-content: center;git
   align-items: center;
   min-height: 100vh;
 }
@@ -57,11 +57,11 @@ body {
 }
 
 .container .box span i:nth-child(1) {
-  color: #5c5fc4;
+  color: #3e418d;
 }
 
 .container .box span i:nth-child(2) {
-  color: #c4c15c;
+  color: #c45c8e;
 }
 
 @keyframes animate {
